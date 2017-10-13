@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi!
+
+I'm Magda and I'm new in this stuff;) 
+By the way, I love pizza!
